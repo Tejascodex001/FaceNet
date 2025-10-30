@@ -122,6 +122,3 @@ streamlit run streamlit_app.py
 
 ---
 
-## Sample Output Screenshot
-
-Add or update screenshot(s) of CLI/Streamlit output here for demonstration.
