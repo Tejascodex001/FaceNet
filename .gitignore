@@ -1,0 +1,7 @@
+/extracted_archive
+/known_faces
+/custom_gallery_embeddings.pkl
+/.pptxenv
+__pycache__
+*.zip
+/generate_ppt.py
